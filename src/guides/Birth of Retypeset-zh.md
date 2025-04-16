@@ -1,12 +1,12 @@
 ---
-title: Retypeset 博客主题诞生记
-published: 2025-04-04
+title: 主题排版测试
+published: 2025-04-16
 tags:
-  - 博客主题
-toc: false
+  - test
 lang: zh
-abbrlink: birth-of-retypeset
+draft: true
 ---
+
 
 Retypeset 是一款基于 Astro 框架的静态博客主题，中文名为重新编排。作为一名编程小白，我花三个月时间开发了这款主题，感受颇多。这篇文章，就来分享一下 Retypeset 诞生的故事。
 
@@ -14,7 +14,6 @@ Retypeset 是一款基于 Astro 框架的静态博客主题，中文名为重新
 
 去年入坑博客以后，就很喜欢刷别人的博客。一来是可以看看别人的博客主题，二来是能刷到别人分享的故事。
 
-![活版印字](https://image.radishzz.cc/birth-of-retypeset/typograph.webp)
 
 几个月前，我偶然在 V2 刷到 [活版印字](https://astro-theme-typography.vercel.app/) 这个主题，简约的风格直接戳中我的审美。再加上之前的 Hexo 博客性能太差，我一直想换来着，于是就决定迁移博客到这个主题。
 
